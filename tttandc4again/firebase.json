@@ -1,0 +1,5 @@
+{
+  "firebase": "tttandc4again",
+  "public": "app",
+  "rules": "config/security-rules.json"
+}
